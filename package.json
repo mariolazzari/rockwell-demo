@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/mariolazzari/rockwell-demo#readme",
   "dependencies": {
-    "st-ethernet-ip": "^2.3.2"
+    "dotenv": "^10.0.0",
+    "st-ethernet-ip": "github:SerafinTech/ST-node-ethernet-ip"
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
